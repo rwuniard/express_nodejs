@@ -1,0 +1,26 @@
+{
+  "name": "express_nodejs",
+  "version": "1.0.0",
+  "description": "Express js crash course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rwuniard/express_nodejs.git"
+  },
+  "author": "Ronson W",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rwuniard/express_nodejs/issues"
+  },
+  "homepage": "https://github.com/rwuniard/express_nodejs#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
